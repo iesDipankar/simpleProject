@@ -1,0 +1,37 @@
+@import url('https://fonts.googleapis.com/css2?family=Roboto:wght@500&display=swap');
+
+
+.text-center{
+  text-align: center;
+}
+
+.mx-auto{
+  margin: auto;
+}
+.container{
+  background:black;
+  
+}
+
+
+.flex{
+  display: flex;
+}
+.flex-col{
+  flex-direction: column;
+}
+
+.row {
+  margin:8px 0;
+}
+
+.row input{
+  font-size: 18px;
+   
+  padding: 10px 10px 10px 16px;
+  border: 2px solid black;
+  border-radius: 5px;
+}
+.title=march{
+  background:yellow;
+}
